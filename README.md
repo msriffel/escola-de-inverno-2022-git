@@ -5,6 +5,10 @@ Material para o curso de  Gerenciamento de código e projetos com GitHub
 
 ## Adicione seu nome na chamada 🏫
 
+O que iremos fazer?
+
+Criar um arquivo com seu usuário, e adicioná-lo ao repositório.
+
 ### Primeiro, crie um arquivo alunos/SEU-USUARIO.md
 
 Clone esse repositório, crie uma cópia do arquivo markdown `template.md` dentro da pasta `alunos`, e adicione seu usuário no github como nome do arquivo. A estrutura será algo assim `alunos/<SEU-USUARIO>.md`.
