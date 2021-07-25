@@ -83,4 +83,4 @@ Após, basta clicar em criar.
 
 Pronto, agora basta aguardar aprovação.
 
-### Mais informações podem ser encontradas na wiki
+### Mais informações podem ser encontradas na [wiki](https://github.com/larcc-group/escola-de-inverno-2021-github/wiki)
