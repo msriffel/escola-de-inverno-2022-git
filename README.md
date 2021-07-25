@@ -82,3 +82,5 @@ Nesse momento, você escolhe a sua branch na segunda opção, e a branch main na
 Após, basta clicar em criar.
 
 Pronto, agora basta aguardar aprovação.
+
+### Mais informações podem ser encontradas na wiki
