@@ -1,5 +1,5 @@
 ---
-nome: Larissa Guder
+nome: Larissa Daiane
 instituicao: SETREM 
 github_user: LarissaGuder
 ---
