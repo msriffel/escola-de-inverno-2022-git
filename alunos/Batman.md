@@ -1,5 +1,5 @@
 ---
-nome: Bruce Wayne
+nome: Bruce
 instituicao: SETREM 🚩 
 github_user: notbatman
 ---
