@@ -1,7 +1,6 @@
-# Gerenciamento de código e projetos com GitHub
+# Gerenciamento e versionamento de dados
 
-Material para o curso de  Gerenciamento de código e projetos com GitHub
-
+Material para o curso de Gerenciamento e versionamento de dados
 
 ## Adicione seu nome na chamada 🏫
 
@@ -65,7 +64,7 @@ Para isso, vamos utilizar o comando `push`. Precisaremos especificar para qual b
 
 `git push add\SEU-USUARIO`
 
-Com esse comando, a sua branch contendo o seu commit, foi enviada para o repositório. Você pode conferir [aqui](https://github.com/larcc-group/escola-de-inverno-2021-github/branches).
+Com esse comando, a sua branch contendo o seu commit, foi enviada para o repositório. Você pode conferir [aqui](https://github.com/larcc-group/escola-de-inverno-2022-github/branches).
 
 ### Solicitação de PR
 
@@ -73,7 +72,7 @@ Com esse comando, a sua branch contendo o seu commit, foi enviada para o reposit
 
 Hora de juntar as suas alterações ao repositório. Para isso, será necessário criar uma Pull Request para a `branch main`.
 
-A PR deverá ser criada [aqui](https://github.com/larcc-group/escola-de-inverno-2021-github/pulls).
+A PR deverá ser criada [aqui](https://github.com/larcc-group/escola-de-inverno-2022-github/pulls).
 
 Basta escolher a opção nova pull request, a tela de comparações deverá ser aberta.
 
@@ -83,4 +82,4 @@ Após, basta clicar em criar.
 
 Pronto, agora basta aguardar aprovação.
 
-### Mais informações podem ser encontradas na [wiki](https://github.com/larcc-group/escola-de-inverno-2021-github/wiki)
+### Mais informações podem ser encontradas na [wiki](https://github.com/larcc-group/escola-de-inverno-2022-github/wiki)
