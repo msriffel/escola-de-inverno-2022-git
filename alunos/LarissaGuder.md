@@ -1,5 +1,5 @@
 ---
 nome: Larissa Daiane Caneppele Guder
-instituicao: PUCRS | Setrem
+instituicao: PUCRS
 github_user: LarissaGuder
 ---
